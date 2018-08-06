@@ -1,0 +1,9 @@
+DIRS= \
+    crts    \
+    hals    \
+    ntos    \
+    ntdll   \
+    urtl    \
+    subsys
+
+OPTIONAL_DIRS=
