@@ -17,7 +17,6 @@ buildchk.err
 /minkernel/ntos/ke/mp/x86
 /minkernel/ntos/ke/mp/amd64
 /minkernel/ntos/rtl/error.h
-/public/publish.log
 /ds/lsa/server/exe/lsapmsgs.h
 /ds/lsa/server/lsarpc_s.c
 /ds/lsa/uclient/lsarpc_c.c
